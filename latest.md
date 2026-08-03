@@ -1,7 +1,7 @@
 # FUMIYA Investment OS — Public Report
 
-- Generated: 2026-08-03T16:22:53
-- OS version: 3.2
+- Generated: 2026-08-03T17:47:52
+- OS version: 4.3
 - Candidates: 20
 - BUY: 20 / WATCH: 0 / PASS: 0
 
