@@ -1,36 +1,41 @@
 # FUMIYA Investment OS Ver5.0.1 — Morning Decision Brief
 
-- Generated: 2026-08-04T15:31:49
+- Generated: 2026-08-04T16:05:47
 - OS version: 5.0.1
-- BUY: 2 / WATCH: 13 / PASS: 5
+- BUY: 4 / WATCH: 16 / PASS: 0
 
 ## 今日の結論: 条件付きで買い候補あり
 
-最大2銘柄。価格帯・一次資料確認後に判断
+最大3銘柄。価格帯・一次資料確認後に判断
 
-- Macro regime: Neutral
-- Risk level: 3/5
+- Macro regime: Strong Risk-On
+- Risk level: 1/5
 
 ## 買い候補（最大3）
 
 1. **1450.T ＴＡＮＡＫＥＮ** — priority 90 — rank A
-   - entry 1397.0–1425.0 / stop 1377.0 / target 1497.0
+   - entry 1397.0–1420.0 / stop 1377.0 / target 1484.0
    - bull: ROE15%以上 / 売上成長15%以上 / 営業利益率12%以上 / PER15倍以下 / 出来高増加
    - concerns: 定量上の重大懸念なし
    - verify: 直近決算の会社計画と進捗率を確認 / TDnet・IRで業績修正、自社株買い、増配を確認
-2. **4380.T Ｍマート** — priority 82 — rank A
-   - entry 596.3–612.1 / stop 567.7 / target 678.6
-   - bull: ROE15%以上 / 営業利益率12%以上 / PER15倍以下 / 出来高増加
+2. **7792.T コラントッテ** — priority 84 — rank A
+   - entry 1447.0–1454.0 / stop 1437.0 / target 1483.0
+   - bull: ROE15%以上 / 売上成長15%以上 / 営業利益率12%以上 / PER15倍以下 / 出来高増加
+   - concerns: 定量上の重大懸念なし
+   - verify: 直近決算の会社計画と進捗率を確認 / TDnet・IRで業績修正、自社株買い、増配を確認
+3. **3679.T じげん** — priority 82 — rank A
+   - entry 402.0–410.7 / stop 392.4 / target 438.1
+   - bull: ROE15%以上 / 売上成長15%以上 / 営業利益率12%以上 / PER15倍以下
    - concerns: 定量上の重大懸念なし
    - verify: 直近決算の会社計画と進捗率を確認 / TDnet・IRで業績修正、自社株買い、増配を確認
 
 ## 押し目待ち
 
+- 4012.T アクシス — Aランク到達待ち。決算・IR・価格条件を確認
+- 8935.T ＦＪネクストホールディングス — Aランク到達待ち。決算・IR・価格条件を確認
 - 6150.T タケダ機械 — Aランク到達待ち。決算・IR・価格条件を確認
-- 6392.T ヤマダコーポレーション — Aランク到達待ち。決算・IR・価格条件を確認
+- 2121.T ＭＩＸＩ — Aランク到達待ち。決算・IR・価格条件を確認
 - 8700.T 丸八証券 — Aランク到達待ち。決算・IR・価格条件を確認
-- 7192.T 日本モーゲージサービス — Aランク到達待ち。決算・IR・価格条件を確認
-- 3623.T ビリングシステム — Aランク到達待ち。決算・IR・価格条件を確認
 
 ## 保有株アクション
 
@@ -38,7 +43,6 @@
 
 ## 重要イベント
 
-- 2026-08-04 飯野海運 (earnings)
-- 2026-08-12 ＬＩＦＵＬＬ (earnings)
+- 2026-08-10 ハピネット (earnings)
 
 > Decision support only; not an automatic trading instruction. ChatGPT final review and primary-source verification are required.
