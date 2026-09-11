@@ -1,8 +1,8 @@
 # FUMIYA Investment OS Ver5.0.1 — Morning Decision Brief
 
-- Generated: 2026-09-11T00:37:56
+- Generated: 2026-09-11T10:48:46
 - OS version: 5.0.1
-- BUY: 2 / WATCH: 18 / PASS: 0
+- BUY: 1 / WATCH: 8 / PASS: 11
 
 ## 今日の結論: 今日は買わない
 
@@ -13,24 +13,19 @@
 
 ## 買い候補（最大3）
 
-1. **7131.T のむら産業** — priority 89 — rank A
-   - entry 3597.0–3662.0 / stop 3559.0 / target 3816.0
-   - bull: ROE15%以上 / 売上成長15%以上 / 営業利益率12%以上 / PER15倍以下 / 出来高増加
-   - concerns: 定量上の重大懸念なし
-   - verify: 直近決算の会社計画と進捗率を確認 / TDnet・IRで業績修正、自社株買い、増配を確認
-2. **5867.T エスネットワークス** — priority 86 — rank A
-   - entry 1241.0–1266.0 / stop 1194.0 / target 1375.0
-   - bull: ROE15%以上 / 売上成長15%以上 / 営業利益率12%以上 / PER15倍以下 / 出来高増加
+1. **7326.T ＳＢＩインシュアランスグループ** — priority 81 — rank A
+   - entry 2137.0–2172.0 / stop 2088.0 / target 2297.0
+   - bull: ROE15%以上 / 売上成長15%以上 / 営業利益率12%以上
    - concerns: 定量上の重大懸念なし
    - verify: 直近決算の会社計画と進捗率を確認 / TDnet・IRで業績修正、自社株買い、増配を確認
 
 ## 押し目待ち
 
+- 5867.T エスネットワークス — Aランク到達待ち。決算・IR・価格条件を確認
+- 4372.T ユミルリンク — Aランク到達待ち。決算・IR・価格条件を確認
 - 9242.T メディア総研 — Aランク到達待ち。決算・IR・価格条件を確認
-- 7608.T エスケイジャパン — Aランク到達待ち。決算・IR・価格条件を確認
-- 9252.T ラストワンマイル — Aランク到達待ち。決算・IR・価格条件を確認
-- 3241.T ウィル — Aランク到達待ち。決算・IR・価格条件を確認
-- 8604.T 野村ホールディングス — Aランク到達待ち。決算・IR・価格条件を確認
+- 9214.T Ｒｅｃｏｖｅｒｙ　Ｉｎｔｅｒｎａｔｉｏｎａｌ — Aランク到達待ち。決算・IR・価格条件を確認
+- 8002.T 丸紅 — Aランク到達待ち。決算・IR・価格条件を確認
 
 ## 保有株アクション
 
@@ -38,10 +33,14 @@
 
 ## 重要イベント
 
+- 2026-09-29 丸紅 (ex_dividend)
 - 2026-09-29 村上開明堂 (ex_dividend)
-- 2026-09-29 ストライクグループ (ex_dividend)
-- 2026-09-29 四国銀行 (ex_dividend)
-- 2026-09-29 ミガロホールディングス (ex_dividend)
+- 2026-09-29 兼松 (ex_dividend)
+- 2026-09-29 トーエネック (ex_dividend)
+- 2026-09-29 ムトー精工 (ex_dividend)
+- 2026-09-29 エフビー介護サービス (ex_dividend)
 - 2026-09-29 電源開発 (ex_dividend)
+- 2026-09-29 日本航空電子工業 (ex_dividend)
+- 2026-09-29 日比谷総合設備 (ex_dividend)
 
 > Decision support only; not an automatic trading instruction. ChatGPT final review and primary-source verification are required.
