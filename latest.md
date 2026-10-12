@@ -1,31 +1,27 @@
 # FUMIYA Investment OS Ver5.0.1 — Morning Decision Brief
 
-- Generated: 2026-10-09T21:56:21
+- Generated: 2026-10-12T13:00:23
 - OS version: 5.0.1
-- BUY: 1 / WATCH: 19 / PASS: 0
+- BUY: 0 / WATCH: 20 / PASS: 0
 
 ## 今日の結論: 今日は買わない
 
-マクロ環境がRisk-Offのため新規買いを抑制
+AランクBUY候補がありません
 
-- Macro regime: Risk-Off
-- Risk level: 4/5
+- Macro regime: Risk-On
+- Risk level: 2/5
 
 ## 買い候補（最大3）
 
-1. **3498.T 霞ヶ関キャピタル** — priority 82 — rank A
-   - entry 7378.0–7466.0 / stop 7224.0 / target 7928.0
-   - bull: ROE15%以上 / 売上成長15%以上 / 営業利益率12%以上 / PER15倍以下
-   - concerns: 定量上の重大懸念なし
-   - verify: 直近決算の会社計画と進捗率を確認 / TDnet・IRで業績修正、自社株買い、増配を確認
+- なし
 
 ## 押し目待ち
 
+- 3498.T 霞ヶ関キャピタル — Aランク到達待ち。決算・IR・価格条件を確認
 - 1418.T インターライフホールディングス — Aランク到達待ち。決算・IR・価格条件を確認
-- 4415.T ブロードエンタープライズ — Aランク到達待ち。決算・IR・価格条件を確認
-- 9211.T エフ・コード — Aランク到達待ち。決算・IR・価格条件を確認
-- 4046.T 大阪ソーダ — Aランク到達待ち。決算・IR・価格条件を確認
-- 6301.T 小松製作所 — Aランク到達待ち。決算・IR・価格条件を確認
+- 3932.T アカツキ — Aランク到達待ち。決算・IR・価格条件を確認
+- 1450.T ＴＡＮＡＫＥＮ — Aランク到達待ち。決算・IR・価格条件を確認
+- 4540.T ツムラ — Aランク到達待ち。決算・IR・価格条件を確認
 
 ## 保有株アクション
 
@@ -33,7 +29,9 @@
 
 ## 重要イベント
 
-- 2026-10-29 小松製作所 (earnings)
-- 2026-10-29 ちゅうぎんフィナンシャルグループ (earnings)
+- 2026-10-15 ＳＨＩＦＴ (earnings)
+- 2026-10-27 日東電工 (earnings)
+- 2026-11-09 ツムラ (earnings)
+- 2026-11-10 プレミアグループ (earnings)
 
 > Decision support only; not an automatic trading instruction. ChatGPT final review and primary-source verification are required.
