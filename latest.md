@@ -1,6 +1,6 @@
 # FUMIYA Investment OS Ver5.0.1 — Morning Decision Brief
 
-- Generated: 2026-10-12T13:00:23
+- Generated: 2026-10-14T00:26:48
 - OS version: 5.0.1
 - BUY: 0 / WATCH: 20 / PASS: 0
 
@@ -8,8 +8,8 @@
 
 AランクBUY候補がありません
 
-- Macro regime: Risk-On
-- Risk level: 2/5
+- Macro regime: Risk-Off
+- Risk level: 4/5
 
 ## 買い候補（最大3）
 
@@ -33,5 +33,6 @@ AランクBUY候補がありません
 - 2026-10-27 日東電工 (earnings)
 - 2026-11-09 ツムラ (earnings)
 - 2026-11-10 プレミアグループ (earnings)
+- 2026-11-12 カヤバ (earnings)
 
 > Decision support only; not an automatic trading instruction. ChatGPT final review and primary-source verification are required.

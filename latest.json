@@ -1,7 +1,7 @@
 {
   "schema_version": "2.1",
   "os_version": "5.0.1",
-  "generated_at": "2026-10-12T13:00:23",
+  "generated_at": "2026-10-14T00:26:48",
   "status": "completed",
   "disclaimer": "Decision support only; not an automatic trading instruction. ChatGPT final review and primary-source verification are required.",
   "summary": {
@@ -91,17 +91,19 @@
     "do_nothing_is_valid": true
   },
   "macro": {
-    "generated_at": "2026-10-12T13:00:22+09:00",
-    "regime": "Risk-On",
-    "risk_level": 2,
+    "generated_at": "2026-10-14T00:26:48+09:00",
+    "regime": "Risk-Off",
+    "risk_level": 4,
     "sector_tailwinds": [],
-    "sector_headwinds": [],
+    "sector_headwinds": [
+      "半導体"
+    ],
     "indicators": {
       "TOPIX": {
         "symbol": "1306.T",
         "value": 432.5,
-        "daily_change_pct": 0.7,
-        "trend20_pct": 2.63,
+        "daily_change_pct": 0.0,
+        "trend20_pct": 2.32,
         "status": "OK"
       },
       "NIKKEI": {
@@ -113,58 +115,58 @@
       },
       "SP500": {
         "symbol": "^GSPC",
-        "value": 7811.54,
-        "daily_change_pct": 0.59,
-        "trend20_pct": 2.51,
+        "value": 7790.8101,
+        "daily_change_pct": -0.21,
+        "trend20_pct": 3.16,
         "status": "OK"
       },
       "NASDAQ": {
         "symbol": "^IXIC",
-        "value": 27366.1699,
-        "daily_change_pct": 0.64,
-        "trend20_pct": 4.51,
+        "value": 27168.1113,
+        "daily_change_pct": -0.29,
+        "trend20_pct": 4.58,
         "status": "OK"
       },
       "SOX": {
         "symbol": "^SOX",
-        "value": 12572.4199,
-        "daily_change_pct": -0.41,
-        "trend20_pct": 12.95,
+        "value": 11956.2822,
+        "daily_change_pct": -2.29,
+        "trend20_pct": 6.31,
         "status": "OK"
       },
       "VIX": {
         "symbol": "^VIX",
-        "value": 14.84,
-        "daily_change_pct": -3.7,
-        "trend20_pct": -13.22,
+        "value": 15.33,
+        "daily_change_pct": 0.79,
+        "trend20_pct": -13.44,
         "status": "OK"
       },
       "USDJPY": {
         "symbol": "JPY=X",
-        "value": 158.232,
-        "daily_change_pct": 0.11,
-        "trend20_pct": 2.49,
+        "value": 158.416,
+        "daily_change_pct": 0.22,
+        "trend20_pct": 2.61,
         "status": "OK"
       },
       "US10Y": {
         "symbol": "^TNX",
-        "value": 5.244,
-        "daily_change_pct": 0.25,
-        "trend20_pct": 5.7,
+        "value": 5.219,
+        "daily_change_pct": -0.4,
+        "trend20_pct": 4.25,
         "status": "OK"
       },
       "WTI": {
         "symbol": "CL=F",
-        "value": 91.85,
-        "daily_change_pct": 0.39,
-        "trend20_pct": -9.41,
+        "value": 93.82,
+        "daily_change_pct": 0.09,
+        "trend20_pct": -8.41,
         "status": "OK"
       },
       "GOLD": {
         "symbol": "GC=F",
-        "value": 4216.2998,
-        "daily_change_pct": 1.43,
-        "trend20_pct": -3.12,
+        "value": 4187.3999,
+        "daily_change_pct": -0.08,
+        "trend20_pct": -4.56,
         "status": "OK"
       }
     }
@@ -173,7 +175,7 @@
   "events": [
     {
       "date": "2026-10-15",
-      "days_until": 3,
+      "days_until": 1,
       "type": "earnings",
       "code": "3697.T",
       "name": "ＳＨＩＦＴ",
@@ -181,7 +183,7 @@
     },
     {
       "date": "2026-10-27",
-      "days_until": 15,
+      "days_until": 13,
       "type": "earnings",
       "code": "6988.T",
       "name": "日東電工",
@@ -189,7 +191,7 @@
     },
     {
       "date": "2026-11-09",
-      "days_until": 28,
+      "days_until": 26,
       "type": "earnings",
       "code": "4540.T",
       "name": "ツムラ",
@@ -197,10 +199,18 @@
     },
     {
       "date": "2026-11-10",
-      "days_until": 29,
+      "days_until": 27,
       "type": "earnings",
       "code": "7199.T",
       "name": "プレミアグループ",
+      "importance": 3
+    },
+    {
+      "date": "2026-11-12",
+      "days_until": 29,
+      "type": "earnings",
+      "code": "7242.T",
+      "name": "カヤバ",
       "importance": 3
     }
   ],
